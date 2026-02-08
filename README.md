@@ -4,7 +4,7 @@
 
 ## Ref No: 25017555
 
-## Date:27/01/2026
+## Date: 27/01/2026
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
